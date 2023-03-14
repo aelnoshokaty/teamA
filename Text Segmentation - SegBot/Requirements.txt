@@ -1,0 +1,9 @@
+torch==1.2.0
+
+
+Abdullah Notes:
+
+To install torch, you need to create a new environment in Anaconda using Python 3.7
+Start JupyterNotebook, and when running the code in run_segbot.ipynb, install the needed packages.
+Once need to install torch 1.2.0, use the following  pip install torch==1.2.0 -f https://download.pytorch.org/whl/torch_stable.html
+
